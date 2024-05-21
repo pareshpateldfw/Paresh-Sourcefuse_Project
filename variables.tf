@@ -44,13 +44,13 @@ variable "availability_zone" {
 variable "ecs_cluster_name" {
   description = "Name of the ECS cluster"
   type        = string
-  default     = "Sourcefuse_Project-ecs-cluster"
+  default     = "Sourcefuse_ECS_Cluster"
 }
 
 variable "alb_name" {
   description = "Name of the Application Load Balancer"
   type        = string
-  default     = "Sourcefuse_Project-alb"
+  default     = "Sourcefuse-Project-alb"
 }
 
 variable "nginx_image" {

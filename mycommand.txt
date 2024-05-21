@@ -1,0 +1,10 @@
+
+python cli.py list-ecs-versions Sourcefuse_ECS_Cluster nginx 
+python cli.py list-ecs-versions Sourcefuse_ECS_Cluster nginx 
+
+PS C:\Learning-IT-Folder\Paresh-Sourcefuse_Project> python -m unittest test_cli.py
+..
+----------------------------------------------------------------------
+Ran 2 tests in 0.003s
+
+OK
