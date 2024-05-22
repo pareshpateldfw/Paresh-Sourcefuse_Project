@@ -1,7 +1,6 @@
 # Paresh-Sourcefuse_Project
 This is the Paresh-Sourcefuse_Project repository which worked for assessment from Source fuse
-Cloud Architect Assessment: Hashicorp, AWS, AWS/Terraform or can use any open source modules such as CloudPosse, Trussworks. 
-----
+Cloud Architect Assessment: Hashicorp, AWS, AWS/Terraform.
 AWS/Terraform:
 
 Create a network with public and private subnets
@@ -19,4 +18,5 @@ Basic unit tests
 
 ----
 
-
+we use open source modules such as CloudPosse, Trussworks. 
+----
