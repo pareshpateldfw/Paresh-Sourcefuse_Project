@@ -16,7 +16,6 @@ One command to list the files in the S3 bucket created in the first step
 One command lists the versions of the ECS task definition for the service created in step 1
 Basic unit tests
 
-----
 
-we use open source modules such as CloudPosse, Trussworks. 
+----
 ----
